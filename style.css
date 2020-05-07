@@ -1,0 +1,629 @@
+html {
+    scroll-behavior: smooth;
+}
+body{
+    background-color: whitesmoke;
+    padding-block-start: auto;
+    margin-inline-start: 0mm;
+    margin-top: 0mm;
+}
+.header{
+    background-color: rgb(46, 46, 177);
+    padding: 10px 0px 10px 0px;
+    color: white;
+    text-align: center;
+    text-align: top;
+}
+li{
+    display: inline;
+    padding: 0px 0px 2px 0px;
+    margin-right: 30px;
+    font-family: 'Lucida Sans';
+}
+img.facebook{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    display: block;
+}
+.navi{
+    position: relative;
+    margin: 1px 1px 1px 0px;
+    background-color:rgb(247, 252, 252);
+    padding: 1px 1px 1px 1px;
+}
+.nav:hover{
+        border: 1px solid rgb(249, 249, 250);
+        padding: 5px 5px 5px 2px;
+        font-size: medium;
+        font-weight: 400px;
+        background-color: rgb(231, 231, 236);
+        margin: 1px 1px 1px 1px;
+        border-radius: 10px;
+    }
+.not{
+    visibility: hidden;
+}
+img.saylanilogo{
+    position: relative;
+    width: 180px;
+    height: 60px;
+}
+b.title{
+    font-weight: 200;
+    font-family:'Lucida Sans';
+}
+.ab{
+    color: white;
+    background-color:rgb(46, 46, 177);
+    padding: 2px 1px 2px 2px;
+    margin: 5px 50px 5px 50px;
+    font-family: 'Lucida Sans Regular';
+}
+.abb{
+    text-align: center;
+    color: blueviolet;
+    padding: 10px 30px 65px 10px;
+}
+.intro{
+    padding: 10px 150px 10px 150px;
+    font-family:'Trebuchet MS';
+    font-weight: 100px;
+    font-style: normal;
+    text-align: justify;
+    
+}
+.intro1{
+    padding: 20px 0px 0px 0px;
+}
+.intro2{
+    padding: 20px 0px 0px 0px;
+}
+.intro3{
+    padding: 20px 0px 50px 0px;
+}
+.di{
+    
+    height: 140px;
+    width: 140px;
+    display: inline-block;
+    margin: 5px 140px 10px 50px;
+    font-size: 45px;
+}
+.di1{
+    position:absolute;
+    top: 1300px;
+    left: 50px;
+}
+.di2{
+    position:absolute;
+    top: 1300px;
+    left: 370px;
+}
+.di3{
+    position:absolute;
+    top: 1300px;
+    left: 710px;
+}
+.di4{
+    position:absolute;
+    top: 1300px;
+    left: 1040px;
+
+}
+.dimain{
+    background-color: rgb(65, 67, 230);
+    color: white;
+    
+}
+.p{
+    display: inline;
+    position: absolute;
+    left: 5px;
+    top: 1500px
+}
+.g{
+    color:rgb(136, 196, 47);
+}
+.gg{
+    color: rgb(136, 196, 47);
+}
+.abb{
+    color: blue;
+}
+.doing{
+    color: blue;
+    text-align: center;
+    font-weight: 700;
+    margin: 20px 10px 80px 0px;
+}
+.doing1{
+    color: rgb(136, 196, 47);
+}
+.sadqa{
+    height: 200px;
+    width: 340px;
+    display: inline-block;
+    margin: 5px 30px 10px 80px;
+    font-size: 45px;
+    background-color: white;
+    box-shadow: 0px 0px 15px black;
+}
+.welfare{
+    height: 200px;
+    width: 340px;
+    display: inline-block;
+    margin: 5px 0px 10px 30px;
+    font-size: 45px;
+    background-color: white;
+    box-shadow: 0px 0px 15px black;
+}
+.medical{
+    height: 200px;
+    width: 340px;
+    margin: 5px 0px 10px 60px;
+    display: inline-block;
+    font-size: 45px;
+    background-color: white;
+    box-shadow: 0px 0px 15px black;
+}
+.dastarkh{
+    height: 200px;
+    width: 340px;
+    display: inline-block;
+    margin: 5px 30px 10px 80px;
+    font-size: 45px;
+    background-color: white;
+    box-shadow: 0px 0px 15px black;
+}
+.roplant{
+    height: 200px;
+    width: 340px;
+    display: inline-block;
+    margin: 5px 0px 10px 30px;
+    font-size: 45px;
+    background-color: white;
+    box-shadow: 0px 0px 15px black;
+}
+.edu{
+    height: 200px;
+    width: 340px;
+    margin: 5px 0px 10px 60px;
+    display: inline-block;
+    font-size: 45px;
+    background-color: white;
+    box-shadow: 0px 0px 15px black;
+}
+.sadqahimage{
+    display: inline;
+    position: absolute;
+    left: 155px;
+    top: 1750px
+
+}
+.welfareimage{
+    display: inline;
+    position: absolute;
+    left: 540px;
+    top: 1750px
+
+}
+.medicalimage{
+    display: inline;
+    position: absolute;
+    left: 950px;
+    top: 1750px
+}
+.dastarkhanimage{
+    display: inline;
+    position: absolute;
+    left: 145px;
+    top: 2000px
+}
+.roplantimage{
+    display: inline;
+    position: absolute;
+    left: 560px;
+    top: 2000px
+}
+.educationimage{
+    display: inline;
+    position: absolute;
+    left: 950px;
+    top: 2000px
+}
+.ed{
+    color: blue;
+    font-weight: 1000;
+    font-size: 20px;
+}
+.ed1{
+    display: inline;
+    position: absolute;
+    left: 168px;
+    top: 1880px  
+}
+.ed2{
+    display: inline;
+    position: absolute;
+    left: 620px;
+    top: 1880px  
+}
+.ed3{
+    display: inline;
+    position: absolute;
+    left: 1010px;
+    top: 1880px  
+}
+.ed4{
+    display: inline;
+    position: absolute;
+    left: 175px;
+    top: 2100px  
+}
+.ed5{
+    display: inline;
+    position: absolute;
+    left: 610px;
+    top: 2100px  
+}
+.ed6{
+    display: inline;
+    position: absolute;
+    left: 1010px;
+    top: 2100px  
+}
+.x{
+    background-color:rgb(255, 248, 248);
+}
+.upcommingprojects{
+    background-color: whitesmoke;
+    color: blue;
+    font-family: 'Helvetica';
+    font-weight: 10;
+    height: 200px;
+    padding: 40px 2px 0px 100px;
+}
+.upcommingprojects1{
+    background-color: whitesmoke;
+    height: 200px;
+    padding: 0px 200px 0px 100px;
+}
+.projects{
+    height: 70px;
+    width: 300px;
+    background-color: rgb(243, 243, 227);
+    border: solid 1px rgb(212, 197, 197);
+    display: inline-block;
+}
+.projects1{
+    height: 70px;
+    width: 300px;
+    background-color: rgb(243, 243, 227);
+    border: solid 1px rgb(212, 197, 197);
+    display: inline-block;
+}
+.projects2{
+    height: 70px;
+    width: 300px;
+    background-color: rgb(243, 243, 227);
+    border: solid 1px rgb(212, 197, 197);
+    display: inline-block;
+}
+.projects3{
+    height: 70px;
+    width: 300px;
+    background-color: rgb(243, 243, 227);
+    border: solid 1px rgb(212, 197, 197);
+    display: inline-block;
+}
+.heppa{
+    display: inline;
+    position: absolute;
+    left: 110px;
+    top: 2325px;
+}
+.housingsocity{
+    display: inline;
+    position: absolute;
+    left: 420px;
+    top: 2325px;
+
+}
+.itlitrecy{
+    display: inline;
+    position: absolute;
+    left: 110px;
+    top: 2450px;  
+
+}
+.tharparkar{
+    display: inline;
+    position: absolute;
+    left: 420px;
+    top: 2450px;  
+}
+.line{
+    display: inline-block;
+    position: absolute;
+    left: 102px;
+    top: 2292px;
+}
+.hap{
+    display: inline;
+    position: absolute;
+    left: 170px;
+    top: 2330px;
+    font-weight: bold;  
+    color: blue;
+}
+.hs{
+    display: inline;
+    position: absolute;
+    left: 480px;
+    top: 2330px;
+    font-weight: bold;  
+    color: blue;
+}
+.il{
+    display: inline;
+    position: absolute;
+    left: 170px;
+    top: 2450px;
+    font-weight: bold;  
+    color: blue;
+}
+.thar{
+    display: inline;
+    position: absolute;
+    left: 480px;
+    top: 2450px;
+    font-weight: bold;  
+    color: blue;
+}
+.z{
+    display: inline;
+    margin: 0px 50px 20px 20px;
+    position: absolute;
+    left: 850px;
+    top: 2240px;
+    color: blue;
+}
+.z1{
+    height: 30px;
+    width: 30px;
+    background-color: blueviolet;
+}
+.b{
+    color: black;
+    text-align: left;
+    text-align: justify;
+}
+.line2{
+    display: inline-block;
+    position: absolute;
+    left: 0px;
+    top: 60px;
+
+}
+.line3{
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 60px;
+}
+.gall{
+    color: blue;
+    text-align: center;
+}
+.gallery{
+    color: green;
+}
+.logo1{
+    display: inline;
+    position: absolute;
+    left: 555px;
+    top: 2880;
+}
+.logo2{
+    display: inline;
+    position: absolute;
+    left: 550px;
+    top: 800px;
+}
+.logo3{
+    display: inline;
+    position: absolute;
+    left: 550px;
+    top: 1650px;
+}
+.gali{
+    display: inline;
+    position: absolute;
+    top: 2800px;
+    left: 20px;
+
+}
+.gali1{
+    display: inline;
+    position: absolute;
+    top: 2800px;
+    left: 300px;
+
+}
+.gali2{
+    display: inline;
+    position: absolute;
+    top: 2800px;
+    left: 570px;
+
+}
+.gali3{
+    display: inline;
+    position: absolute;
+    top: 2800px;
+    left: 835px;
+}
+.gali4{
+    display: inline;
+    position: absolute;
+    top: 2800px;
+    left: 1085px;
+}
+.bab{
+    padding: 0px 0px 300px 0px;
+}
+.extra{
+    height: 400px;
+    width: 1345px;
+    position: absolute;
+    background-color: rgb(75, 67, 67);
+    margin: 0px 0px 0px 0px;
+}
+.foot{
+    height: 430px;
+    width: 1344px;
+    background-color: rgb(0, 131, 238);
+    padding:0px 0px 8px 0px;
+    margin: 0px 10px 0px 0px;
+}
+.copyright{
+    position: absolute;
+    top: 3400px;
+    left: 50px;
+    color: white;
+}
+.extra0{
+    position: absolute;
+    top: 80px;
+    left: 105px;
+    color: white;
+}
+.extra1{
+    position: absolute;
+    top: 110px;
+    left: 105px;
+    color: white;
+}
+.a1{
+    position: absolute;
+    top: 190px;
+    left: 120px;
+    color: white;
+}
+.a2{
+    position: absolute;
+    top: 220px;
+    left: 120px;
+    color: white;
+}
+.a3{
+    position: absolute;
+    top: 250px;
+    left: 120px;
+    color: white;
+}
+.a4{
+    position: absolute;
+    top: 280px;
+    left: 120px;
+    color: white;
+}
+.a5{
+    position: absolute;
+    top: 310px;
+    left: 120px;
+    color: white;
+}
+.a6{
+    position: absolute;
+    top: 190px;
+    left: 340px;
+    color: white;
+}
+.a7{
+    position: absolute;
+    top: 90px;
+    left: 610px;
+    color: white;
+
+}
+.a8{
+    position: absolute;
+    top: 110px;
+    left: 610px;
+    color: white;
+
+}
+.a9{
+    position: absolute;
+    top: 110px;
+    left: 610px;
+    color: white;
+}
+.a10{
+    position: absolute;
+    top: 90px;
+    left: 1000px;
+    color: white;
+}
+.fb1{
+    position: absolute;
+    top: 125px;
+    left: 1000px;
+}
+.wp1{
+    position: absolute;
+    top: 125px;
+    left: 1030px;
+}
+.insta1{
+    position: absolute;
+    top: 125px;
+    left: 1060px;
+}
+.twi1{
+    position: absolute;
+    top: 125px;
+    left: 1090px;
+}
+.fb0{
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
+.wp0{
+    position: absolute;
+    top: 21px;
+    left: 123px;
+}
+.insta0{
+    position: absolute;
+    top: 21px;
+    left: 146px;
+}
+.twi0{
+    position: absolute;
+    top: 21px;
+    left: 169px;
+}
+.you0{
+    position: absolute;
+    top: 21px;
+    left: 192px;
+}
+.button0{
+    position: absolute;
+    top: 20px;
+    left: 1000px;
+}
+.button1{
+    position: absolute;
+    top: 20px;
+    left: 1080px;
+}
+.button2{
+    position: absolute;
+    top: 20px;
+    left: 1175px;
+}
